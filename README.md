@@ -1,6 +1,3 @@
-# Python code to create a README.md for Black Friday Sales Analysis
-
-readme_text = """
 # Sales--BlackFriday
 
 ### 📌 Project Overview
@@ -48,5 +45,3 @@ This project performs **exploratory data analysis (EDA)** on the Black Friday Sa
 - Apply clustering to segment customers
 - Perform feature selection and model evaluation
 """
-
-print("README.md has been created successfully!")
